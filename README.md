@@ -1,1 +1,1 @@
-# state-of-charge-estimation-for-lithium-ion-battery-in-ev-vehicle
+# State-of-Charge-Estimation-for-Lithium-ion-Battery-in-EV-Vehicle
